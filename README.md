@@ -1,3 +1,3 @@
-# air-bnb-clone
-# air-bnb-clone
-# air-bnb-clone
+Create simple HTML static pages
+with Css 
+
